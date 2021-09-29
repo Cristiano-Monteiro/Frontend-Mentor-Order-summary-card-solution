@@ -1,0 +1,10 @@
+*{
+    background-image: url(images/pattern-background-desktop.svg);
+}
+
+.block1{
+    background-image: none;
+    border: 5px solid black;
+    margin: 5px;
+    padding: 5px;
+}
