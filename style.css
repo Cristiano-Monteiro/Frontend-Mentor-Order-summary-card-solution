@@ -1,10 +1,27 @@
 *{
     background-image: url(images/pattern-background-desktop.svg);
+    
 }
 
 .block1{
     background-image: none;
+    background: none;
     border: 5px solid black;
     margin: 5px;
-    padding: 5px;
+    padding: 0px;
+    width: 450px;
+}
+
+.subblock1{
+    
+}
+
+.block2{
+
+}
+
+.button1{
+    padding: 15px;
+    padding-left: 80px;
+    padding-right: 80px;
 }
