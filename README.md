@@ -1,4 +1,7 @@
 # Project-FrontEnd-basic-01
- Basic project to learn initial web development concepts. 
+ (EN)Basic project to learn initial web development concepts. 
 
- Projeto basico para aprender alguns conceitos iniciais no desenvolvimento web.
+ (PT-BR)Projeto basico para aprender alguns conceitos iniciais no desenvolvimento web.
+
+ Desafio retirado do site Frontend Mentor // Challenge taken from the Frontend Mentor website: 
+ Link: https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/
