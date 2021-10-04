@@ -4,4 +4,4 @@
  (PT-BR)Projeto basico para aprender alguns conceitos iniciais no desenvolvimento web.
 
  Desafio retirado do site Frontend Mentor // Challenge taken from the Frontend Mentor website: 
- Link: https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/
+ https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/
