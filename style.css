@@ -12,12 +12,14 @@ body{
     border: 2px solid;
     width: 450px;    
     border-radius: 30px;
+    overflow: hidden;
 }
 
 .button1{
     padding: 15px;
     padding-left: 80px;
     padding-right: 80px;
+    margin-left: 17%;
 }
 
 .block1{
@@ -25,5 +27,10 @@ body{
 }
 
 .block2 {
-    
+    display: flex;
+    box-sizing: border-box;
+}
+
+.link2{
+    margin-left: 38%;
 }
