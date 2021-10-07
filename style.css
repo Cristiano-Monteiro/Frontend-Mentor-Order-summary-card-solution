@@ -29,6 +29,9 @@ body{
 .block2 {
     display: flex;
     box-sizing: border-box;
+    width: 250px;
+    background-color: hsl(225, 100%, 98%);
+    margin-left: 80px;
 }
 
 .link2{
