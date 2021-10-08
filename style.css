@@ -2,6 +2,7 @@ body{
     background-image: url(images/pattern-background-desktop.svg);  
     background-size: 1440px 400px;
     background-repeat: no-repeat;
+    background-color: hsl(225, 100%, 94%);
 }
 
 .totalblock{
@@ -9,10 +10,11 @@ body{
     box-sizing: border-box;
     margin: auto;
     padding: 0px;
-    border: 2px solid;
+    border: 2px;
     width: 450px;    
-    border-radius: 30px;
+    border-radius: 10px;
     overflow: hidden;
+    margin-top: 3%;
 }
 
 .button1{
@@ -20,6 +22,8 @@ body{
     padding-left: 80px;
     padding-right: 80px;
     margin-left: 17%;
+    border: 2px;
+    border-radius: 10px;
 }
 
 .block1{
@@ -29,11 +33,24 @@ body{
 .block2 {
     display: flex;
     box-sizing: border-box;
-    width: 250px;
+    width: 285px;
     background-color: hsl(225, 100%, 98%);
-    margin-left: 80px;
+    margin-left: 78px;
+    border: 2px;
+    border-radius: 10px;
+}
+
+.link1{
+    margin: auto;
 }
 
 .link2{
     margin-left: 38%;
+    height: 50px;
+    margin-top: 30px;
+}
+
+.image1{
+    height: 40px;
+    margin: auto;
 }
