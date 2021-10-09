@@ -3,6 +3,9 @@ body{
     background-size: 1440px 400px;
     background-repeat: no-repeat;
     background-color: hsl(225, 100%, 94%);
+    font-size: 16px;
+    font-family: 'Red Hat Display', sans-serif;
+    color: hsl(223, 47%, 23%);
 }
 
 .totalblock{
@@ -24,10 +27,13 @@ body{
     margin-left: 17%;
     border: 2px;
     border-radius: 10px;
+    color: white;
+    background-color: blue;
+    font-family: 'Red Hat Display', sans-serif;
 }
 
 .block1{
-    text-align: center;   
+    text-align: center;    
 }
 
 .block2 {
@@ -53,4 +59,8 @@ body{
 .image1{
     height: 40px;
     margin: auto;
+}
+
+.title1{
+    margin-top: 35px;
 }
