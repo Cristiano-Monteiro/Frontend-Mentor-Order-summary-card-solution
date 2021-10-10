@@ -13,8 +13,8 @@ body{
     box-sizing: border-box;
     margin: auto;
     padding: 0px;
-    border: 2px;
-    width: 450px;    
+    border: 1px;
+    width: 430px;    
     border-radius: 10px;
     overflow: hidden;
     margin-top: 3%;
@@ -63,4 +63,8 @@ body{
 
 .title1{
     margin-top: 35px;
+}
+
+.cancel{
+    text-decoration: none;
 }
