@@ -92,4 +92,36 @@ body{
         background-image: url(images/pattern-background-mobile.svg);
         background-color: hsl(225, 100%, 94%);
     }
+
+    .totalblock{
+        width: 300px;
+        height: 500px;  
+        margin-top: 80px;
+    }
+
+    .imagehero{
+        width: 310px;
+        /*height: 175px;*/        
+    }
+
+    .title1{
+        margin-top: 25px;
+        font-size: 20px;
+    }
+
+    .block2{
+        width: 250px;
+        margin-left: 8%;
+    }
+
+    .link2{
+        padding-left: 65px;
+        padding-right: 65px;
+        margin-left: 8%;
+    }
+
+    .link3{
+        margin-top: 13%;
+        margin-left: 37%;
+    }
 }
