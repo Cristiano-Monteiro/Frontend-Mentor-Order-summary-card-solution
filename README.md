@@ -7,3 +7,5 @@
  https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/
 
 Preview site: https://cristiano-monteiro.github.io/Project-FrontEnd-basic-01/
+
+(PROJETO FINALIZADO)
