@@ -1,5 +1,5 @@
 <div>
-    <img src="https://user-images.githubusercontent.com/91402144/148314395-23dfbf37-2921-424d-8ec9-d99c457b4cd8.png" width="600px">
+    <img src="https://user-images.githubusercontent.com/91402144/148314395-23dfbf37-2921-424d-8ec9-d99c457b4cd8.png" width="70%">
 </div>
 
 # Frontend Mentor - Order summary card solution
@@ -11,8 +11,8 @@
 - (PT-BR) Desafio de uma página de pedidos usando apenas HTML e CSS.
 
 ### Links
-- Solution URL: https://github.com/Cristiano-Monteiro/Project-FrontEnd-basic-01
-- Live Site URL: https://cristiano-monteiro.github.io/Project-FrontEnd-basic-01/
+- Solution URL: https://github.com/Cristiano-Monteiro/Frontend-Mentor-Order-summary-card-solution
+- Live Site URL: https://cristiano-monteiro.github.io/Frontend-Mentor-Order-summary-card-solution/
 
 ## My-process / Meu processo
 ### Built with / Construído com
